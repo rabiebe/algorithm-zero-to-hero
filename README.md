@@ -1,7 +1,7 @@
 # algorithm zero to hero
 
+* [Khan Academy - algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [[筆記] 從 JavaScript 學起演算法（Learning Algorithm in JavaScript from Scratch）](https://pjchender.blogspot.tw/2017/09/javascript-learning-algorithm-in.html)
-* 
 ### Video
 
 * [Eric Traub - What is Recursion?](https://www.youtube.com/watch?v=Y3phDUYMuI8)
